@@ -7,7 +7,7 @@ that go on a new website at www.cs.rhodes.edu or www.rhodescs.org or some other 
 ## Suggested layout 
 
 Staying within the Rhodes website guidelines, @pkirlin suggests:
-
+```
 --------------------------------------------------------------------------------
 |                           PHOTO AT TOP                                       |
 |                                                                              |
@@ -22,9 +22,7 @@ Staying within the Rhodes website guidelines, @pkirlin suggests:
 |                                               |                              |
 |                                               |                              |
 |  Three pictures with links to:                |                              |
-|  (Getting started) (Our curric) (Research)    |                              
-|                                                                     |
-|                                                                     |
-|                                                                     |
-|                                                                     |
-|                                                                     |
+|  (Getting started) (Our curric) (Research)    |                              |
+|                                               |                              |
+--------------------------------------------------------------------------------
+```
