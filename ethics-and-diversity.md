@@ -25,7 +25,7 @@ Ethics](https://www.acm.org/code-of-ethics), this duty starts with a commitment
 to use your training as a computer scientist for the betterment of society and
 world, recognizing your potential for positive contributions and for harm.
 Rhodes Computer Science students are trained to be actively ethical in their
-practice, in that ethical considerations as core to their approach to the
+practice, taking ethical considerations as core to their approach to the
 research and development of technologies.
 
 Along with this, central to the department’s ethical mission are its core values
