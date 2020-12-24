@@ -2,7 +2,7 @@
 layout: fancytemplate
 title: A markdown test
 ---
-<main>
+<main id="main">
 This is some content.  It is in **markdown**!!
 
 ```python
