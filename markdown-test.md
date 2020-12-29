@@ -1,5 +1,5 @@
 ---
-layout: fancytemplate
+layout: subpage-template
 title: A markdown test
 ---
 <main id="main">
@@ -23,7 +23,7 @@ title: A markdown test
     <section id="about" class="about">
       <div class="container">
       
-      This is some content.  It is in **markdown**!!
+This is some content.  It is in **markdown**!!
 
 ```python
 x += 1
