@@ -1,4 +1,4 @@
-/**
+w/**
 * Template Name: Sailor - v2.3.0
 * Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
 * Author: BootstrapMade.com
@@ -11,13 +11,6 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
-  padding-top: 96px;  /* Because of fixed-top navbar */
-}
-
-@media (max-width: 992px) {
-  body {
-    padding-top: 80px;
-  }
 }
 
 a {
@@ -215,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Get Started Button */
+/* Get Startet Button */
 .get-started-btn {
   margin-left: 25px;
   background: #d9232d;
@@ -578,7 +571,7 @@ section {
   padding: 18px 0;
   background: #f8f9fa;
   min-height: 40px;
-  /*margin-top: 96px; moved to body padding-top*/
+  margin-top: 96px;
 }
 
 .breadcrumbs h2 {
@@ -608,9 +601,9 @@ section {
 }
 
 @media (max-width: 992px) {
-  /*.breadcrumbs {
+  .breadcrumbs {
     margin-top: 80px;
-  }moved to body padding-top*/
+  }
   .breadcrumbs .d-flex {
     display: block !important;
   }
