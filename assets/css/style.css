@@ -529,7 +529,20 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  /*padding: 60px 0;*/
+}
+
+section .title-shaded {  /* Used to shade the h1 title of a section */
+  padding: 18px 0;
+  background: #f8f9fa;
+  /*min-height: 40px;*/
+  margin: 0 0 1em 0;
+}
+
+section h1 {
+  font-size: 32px;
+  font-weight: 300;
+  margin: 0;
 }
 
 .section-bg, .services .icon-box {

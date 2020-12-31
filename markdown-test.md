@@ -2,7 +2,7 @@
 layout: subpage-template
 title: A markdown test
 ---
-<main id="main">
+
 
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
@@ -58,4 +58,3 @@ def f(x):
     </section><!-- End About Section -->
 
 
-</main>
