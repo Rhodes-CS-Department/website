@@ -1,5 +1,7 @@
 ---
 layout: subpage-template
+title: Rhodes College Computer Science
+hideheading: true
 ---
 Computer science at Rhodes College provides students the opportunity to study the world of technology, computation, and algorithmic thinking in the context of a liberal arts education.  We offer a rigorous curriculum that blends theory and practice to prepare students for future opportunities in industry or graduate school.  
 
