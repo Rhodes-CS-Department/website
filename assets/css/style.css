@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: #556270;
   transition: 0.3s;
-  font-size: 15px;
+  /*font-size: 15px;*/
   font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
@@ -529,6 +529,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
+	font-size: 1.1rem;
   /*padding: 60px 0;*/
 }
 
@@ -539,10 +540,19 @@ section .title-shaded {  /* Used to shade the h1 title of a section */
   margin: 0 0 1em 0;
 }
 
-section h1 {
+section .title-shaded h1 {
   font-size: 32px;
   font-weight: 300;
   margin: 0;
+  color: #444444;
+}
+
+section p {
+	color: #444444;
+}
+
+section h1, section h2, section h3, section h4, section h5, section h6 {
+	color: #556270;
 }
 
 .section-bg, .services .icon-box {
@@ -2009,11 +2019,22 @@ section h1 {
 
 #footer .footer-top {
   background: #515d6a;
-  padding: 60px 0 30px 0;
+  padding: 30px 0 30px 0;
+}
+
+#footer a {
+  color: rgba(255, 255, 255, 0.6);
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1;
+}
+
+#footer a:hover {
+  color: white;
 }
 
 #footer .footer-top .footer-info {
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
 }
 
 #footer .footer-top .footer-info h3 {
@@ -2028,7 +2049,7 @@ section h1 {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  /*font-family: "Raleway", sans-serif;*/
   color: #fff;
 }
 
@@ -2062,7 +2083,7 @@ section h1 {
 }
 
 #footer .footer-top .footer-links {
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
 }
 
 #footer .footer-top .footer-links ul {

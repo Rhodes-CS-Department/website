@@ -1,7 +1,9 @@
 ---
-layout: subpage-template2
-title: A markdown test 2
+layout: subpage-template
+title: A markdown test
 ---
+
+Here is some regular text.
 
 ## Second level heading.
 
