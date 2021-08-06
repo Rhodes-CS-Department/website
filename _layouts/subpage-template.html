@@ -8,28 +8,28 @@
   <title>{{ page.title }}</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+  
+  <!-- relative includes for jekyll -->
+  {% include relbase.html %}
 
   <!-- Favicons -->
-  <link href="assets/img/favicon-cs.png" rel="icon">
-  <link href="assets/img/favicon-cs.png" rel="apple-touch-icon">
+  <link href="{{ relBase }}assets/img/favicon-cs.png" rel="icon">
+  <link href="{{ relBase }}assets/img/favicon-cs.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="{{ relBase }}assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="{{ relBase }}assets/css/style.css" rel="stylesheet">
-  
-  <!-- relative includes -->
-  {% include relbase.html %}
 
 </head>
 
@@ -55,46 +55,46 @@
 				<ul>
 					<li class="dropdown"><a href="#"><span>Curriculum</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="curriculum/overview">Overview</a></li>
-							<li><a href="curriculum/major-and-minor">The Major and Minor</a></li>
-							<li><a href="curriculum/courses">Course Descriptions</a></li>
-							<li><a href="curriculum/plans">Sample Four-Year Plans</a></li>
-							<li><a href="curriculum/internships">Internships</a></li>
-							<li><a href="curriculum/study-abroad">Study Abroad</a></li>
+							<li><a href="{{ relBase }}curriculum/overview.html">Overview</a></li>
+							<li><a href="{{ relBase }}curriculum/major-and-minor.html">The Major and Minor</a></li>
+							<li><a href="{{ relBase }}curriculum/courses.html">Course Descriptions</a></li>
+							<li><a href="{{ relBase }}curriculum/plans.html">Sample Four-Year Plans</a></li>
+							<li><a href="{{ relBase }}curriculum/internships.html">Internships</a></li>
+							<li><a href="{{ relBase }}curriculum/study-abroad.html">Study Abroad</a></li>
 							<li class="divider"><a href="#"></a></li>
-							<li><a href="curriculum/overview">Spring 2021 Schedule</a></li>
+							<li><a href="{{ relBase }}curriculum/spring-2021-schedule.html">Spring 2021 Schedule</a></li>
 						</ul>
 					</li>
 					
 					<li class="dropdown"><a href="#"><span>People</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="people/faculty">Faculty</a></li>
-							<li><a href="people/alumni">Alumni</a></li>
+							<li><a href="{{ relBase }}people/faculty">Faculty</a></li>
+							<li><a href="{{ relBase }}people/alumni">Alumni</a></li>
 						</ul>
 					</li>
 					
 					<li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="research/faculty-research">Student Research</a></li>
-							<li><a href="research/student-research">Faculty Research</a></li>
-							<li><a href="research/getting-involved">Getting Involved</a></li>
+							<li><a href="{{ relBase }}research/faculty-research">Student Research</a></li>
+							<li><a href="{{ relBase }}research/student-research">Faculty Research</a></li>
+							<li><a href="{{ relBase }}research/getting-involved">Getting Involved</a></li>
 						</ul>
 					</li>
 					
 					<li class="dropdown"><a href="#"><span>Community</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="community/diversity-and-inclusion">Diversity and Inclusion</a></li>
-							<li><a href="community/clubs">Clubs and Student Groups</a></li>
+							<li><a href="{{ relBase }}community/diversity-and-inclusion">Diversity and Inclusion</a></li>
+							<li><a href="{{ relBase }}community/clubs">Clubs and Student Groups</a></li>
 						</ul>
 					</li>
 					
 					<li class="dropdown"><a href="#"><span>Resources</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="resources/computing-resources">Computing Resources</a></li>
-							<li><a href="resources/career-planning">Career Planning</a></li>
-							<li><a href="resources/student-handbook">Student Handbook</a></li>
-							<li><a href="resources/advising-handbook">Advising Handbook</a></li>
-							<li><a href="resources/tutoring-handbook">Tutoring Handbook</a></li>
+							<li><a href="{{ relBase }}resources/computing-resources">Computing Resources</a></li>
+							<li><a href="{{ relBase }}resources/career-planning">Career Planning</a></li>
+							<li><a href="{{ relBase }}resources/student-handbook">Student Handbook</a></li>
+							<li><a href="{{ relBase }}resources/advising-handbook">Advising Handbook</a></li>
+							<li><a href="{{ relBase }}resources/tutoring-handbook">Tutoring Handbook</a></li>
 						</ul>
 					</li>
 					
@@ -167,15 +167,15 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> 
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="{{ relBase }}assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ relBase }}assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="{{ relBase }}assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="{{ relBase }}assets/vendor/php-email-form/validate.js"></script>
+  <script src="{{ relBase }}assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="{{ relBase }}assets/vendor/waypoints/noframework.waypoints.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="{{ relBase }}assets/js/main.js"></script>
 
 </body>
 

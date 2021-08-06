@@ -1,2 +1,5 @@
 name: Rhodes Computer Science
 markdown: kramdown
+plugins:
+  - jekyll-titles-from-headings
+  - jekyll-relative-links

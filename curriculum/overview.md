@@ -1,6 +1,5 @@
 ---
 layout: subpage-template
-title: Rhodes College Computer Science
 hideheading: false
 ---
 # Curriculum Overview
