@@ -4,7 +4,7 @@ title: Course Descriptions
 hideheading: false
 ---
 <style>
-	i[class^="ri-"] { color: #d9232d; font-size: 20px; display: inline-flex; padding-bottom: -20px; }
+	i[class^="ri-"] { color: #d9232d; font-size: 24px; vertical-align: sub }
 	
 </style>
 **COMP 141: Computer Science I: Programming Fundamentals**\
