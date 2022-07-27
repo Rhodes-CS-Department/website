@@ -70,4 +70,5 @@ done with the lower-level courses, you can explore our upper-level electives .
 - Learn more about the requirements for our [major and minor](major-and-minor.html).
 - Take a look at our [course descriptions](course-descriptions.html).
 - See some sample [four-year plans](plans.html).
-- Learn more about the [internships](internships.md) our students complete, study abroad opportunities, or planning for a career in computer science.
+- Learn more about the [internships](internships.html) our students complete, 
+  [study abroad opportunities](study-abroad.html), or [planning for a career in computer science](career-planning.html).
