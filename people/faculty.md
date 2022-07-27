@@ -14,10 +14,10 @@ hideheading: false
   - Web: [http://www.cs.rhodes.edu/~kirlinp](http://www.cs.rhodes.edu/~kirlinp)
   - Email: kirlinp@rhodes.edu
 
-- **Matt Lang**, Assistant Professor, *on sabbatical Fall 2021--Spring 2022*
+- **Marion Lang**, Assistant Professor, *on sabbatical Fall 2021--Spring 2022*
   - Ph.D., The Ohio State University
   - Research interests: specification and verification of distributed systems, large-scale distributed data processing and analytics systems.
-  - Web: [https://matthewlang.github.io/](https://matthewlang.github.io/)
+  - Web: [https://ml8.github.io/](https://ml8.github.io/)
   - Email: langm@rhodes.edu
 
 - **Brian Larkins**, Associate Professor
