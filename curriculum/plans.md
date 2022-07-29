@@ -34,7 +34,7 @@ a computer science major in many different ways.  However, there are a few gener
   courses frequently, and with current course enrollment demands, it may be very challenging to complete the degree on time.
 
 **About the math requirement**: The computer science major requires one math course, which may be a calculus course, statistics,
-or math modeling.  This math course technically be taken at any point in the computer science curriculum, however, we recommend taking
+or math modeling.  This math course can technically be taken at any point in the computer science curriculum, however, we recommend taking
 it as early as possible, preferably no later than when a student is taking COMP 241 or 251.  This will give students time to take further
 math courses if they wish to study certain topics in computer science such as artificial intelligence, machine learning, data analytics, or graphics,
 or if they plan to attend graduate school.
