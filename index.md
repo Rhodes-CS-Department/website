@@ -18,5 +18,17 @@ In our department, you'll find:
 - a large community of Rhodes computer science alumni with which to network;
 - the chance to combine computer science with other fields like biology, business, economics, languages, mathematics, music, and physics.
 
-Our graduates have gone onto careers in cybersecurity, game design, high-performance computing, database analytics, and machine learning, as well as in software development and engineering at a wide variety of organizations.  They have have furthered their computer science education at universities such as Brown, Carnegie Mellon, Northeastern, the University of Texas, the University of Utah, and Vanderbilt.  The employment outlook for computer scientists with liberal arts backgrounds is very strong.
+Our graduates have gone onto careers in cybersecurity, game design, high-performance computing, database analytics, 
+and machine learning, as well as in software development and engineering at a wide variety of organizations.  Recent
+graduates have taken jobs with such companies as Amazon, Google, International Paper, Real Capital
+Analytics, Cook Systems International, Summit Engineering, St. Jude Children's Research Hospital, FedEx, 
+Axciom, IBM, The Vanguard Group, Information Systems Consultants, Memphis-Shelby County Schools, AutoZone, and ARGO
+Data Resource Corporation. The employment outlook for computer scientists 
+with liberal arts backgrounds is very strong.
+
+Other recent graduates have pursued master's and doctoral degrees in computer science or 
+related disciplines at schools such as Brown University, Carnegie Mellon University, Duke University,
+Georgia Tech, Northeastern University, 
+the University of North Carolina,
+the University of Texas, the University of Utah, and Vanderbilt University.  
 

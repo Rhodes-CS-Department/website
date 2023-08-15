@@ -36,39 +36,43 @@ algebra, proof techniques, induction, recursion, computational complexity, and c
 permits.
 
 **COMP 231: Introduction to Computer Organization**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 141. <i class="ri-calendar-check-line"></i>Normally offered every fall and spring.*\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 141. <i class="ri-calendar-check-line"></i>Normally offered every spring.*\
 A bottom-up exploration of the interaction between computer hardware and software. Topics begin with an introduction to digital logic,
 and continue through elementary processor design, to assembly language, machine data representation, and computer arithmetic. Other
 topics in contemporary computer architecture such as multicore processors and GPGPU’s may be discussed as time allows. Projects
 include hardware and simulated digital circuits as well as programs in assembly language.
 
 **COMP 241: Computer Science III: Data Structures and Algorithms**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 142; corequisite: COMP 172 (unless already taken). <i class="ri-calendar-check-line"></i>Normally offered every fall and spring.*\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisites: COMP 142 and COMP 172. <i class="ri-calendar-check-line"></i>Normally offered every fall and spring.*\
 An introduction to the fundamental concepts of data structures and the algorithms that arise from them, using the object-oriented design
 paradigm. Data structures covered include stacks, queues, linked lists, hash tables, trees, and graphs. Other topics include an introduction
 to iterative and recursive algorithmic strategies and basic algorithm analysis.
 
-**COMP 265 Computer Science Professional Development (1 credit)**\
+**COMP 251: Introduction to Computer Systems**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 142. <i class="ri-calendar-check-line"></i>Normally offered every fall and spring.*\
+This course is an introduction to system-aware computer programming. Beginning with an overview of the fundamental elements and concepts that are common to all computer systems, including computer architecture, operating systems, compilers, and networks, students will learn how these affect the performance and behavior of computer programs. Additionally, students will learn a system-level programming language and set of tools for writing low-level programs at the operating system boundary. Students completing COMP251 will be prepared for advanced topics in systems, including operating system programming, parallel and distributed computing, and networking. Topics include: memory management and organization; caching and the memory hierarchy; system calls; network programming and I/O; processes, threads, synchronization, and concurrency; performance analysis and measurement; and debugging.
+
+**COMP 265: Computer Science Professional Development (1 credit)**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241 and permission of instructor. <i class="ri-calendar-check-line"></i>Offered as needed.*\
 This course is designed to help students prepare for meaningful computer science-related internships and careers. 
 Key areas of focus are: (1) How to network effectively using such tools as LinkedIn; 
 (2) Preparing for computer science interviews; (3) How to use Rhodes resources for career planning; 
 (4) Creating effective resumes; (5) How to leverage internships for career development. Enrollment by permission of the instructor.
 
-**COMP 315 Computer Networks**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 231 and COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+**COMP 315: Computer Networks**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 251. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 An introduction to the structure and components of computer networks, packet switching, layered architectures, loosely coupled computer communication, network services and protocols, as well as the analysis of generic network models. Topics include: network topologies, router architectures, network-aware applications, content dissemination systems, network security, and performance issues.
 
-**COMP 320 Computer Graphics**\
+**COMP 320: Computer Graphics**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 Coverage of the basic concepts of 2D and 3D graphics, including an overview of graphics hardware, use of a graphics application programming interface, user interface design, techniques for computer animation, and graphical algorithms such as geometric transformations, clipping, windowing, hidden surface removal, and raster graphics techniques for the representation of curves, surfaces, and solids.
 
-**COMP 325 Graphics, Virtual Environments, and Human Computer Interaction**\
+**COMP 325: Graphics, Virtual Environments, and Human Computer Interaction**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
-An introduction to the basics of 3D computer graphics, virtual environments (VEs), and human-computer interaction (HCI).
+An introduction to the basics of 3D computer graphics, virtual environments (VEs), and human-computer interaction (HCI). Fundamental graphics topics include ray-tracing, 3D modeling, animation, lighting, rendering, cameras, and more.  Topics will also include how to interact with and experience a 3D model using the input and output devices that are typically found in a VE system (like the Oculus Rift).  This project-based course will focus on using hardware and creating software for VE applications with fundamental HCI principles in mind. 
 
-**COMP 330 Operating Systems**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 231.  Suggested prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every year.*\
+**COMP 330: Operating Systems**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 251.  Suggested prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every year.*\
 An introduction to the fundamentals of operating systems design and implementation. Topics include the process model and
 implementation of processes, an overview of the major components of a modern operating system, mutual exclusion and interprocess
 synchronization, a survey of scheduling algorithms, memory management techniques, and file systems.
@@ -101,15 +105,11 @@ and approximation heuristics are introduced as required for solution design. Top
 will include the Master Theorem, dynamic programming, divide-and-conquer and greedy algorithms. 
 
 **COMP 360: Programming Languages**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241 and COMP 251. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 A wide-ranging and in-depth coverage of fundamental programming language concepts, presenting design issues of the various language
 constructs, and examining the design choices for these constructs in a range of the most popular contemporary programming languages.
 Language design alternatives are examined and critiqued. Methods of syntax description, common approaches to describing the
 semantics of programming languages, and various implementation approaches are covered.
-
-**COMP 365: Software Engineering**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
-The software systems we often find the most useful and magical are also the largest and most complex to build and understand. In order for these systems to be reliable, maintainable, and secure, they must be built according to disciplined and well-founded methods. This course examines these methods—both in the large (defining requirements, system design, architecture patterns, software process, etc.) and in the small (version control, testing, benchmarking, code review, etc.). At the same time, students will engage in the construction of a large software system or feature.
 
 **COMP 370: Human-Robot Interaction**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
@@ -121,12 +121,21 @@ An introduction to the basic knowledge representation, problem solving, and lear
 study the core algorithms and data structures used in AI, abstract real problems into the prototypical tasks that have been studied in AI,
 and learn to map between abstract tasks and the basic AI techniques that address them.
 
+**COMP 375: Machine Learning**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241, and at least one calculus course (e.g., MATH 112, 115, 116, or anything beyond). <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+Machine learning is the practice of programming computers to learn and
+improve through experience, and is becoming pervasive in science and technology. This
+course will cover the mathematical underpinnings, algorithms, and practices that enable a
+computer to learn. Topics will include supervised learning, unsupervised learning, and the
+evaluation of learning algorithms. Students will write computer programs and apply course
+skills to solve real-world prediction and pattern recognition problems.
+
 **COMP 380: Parallel Systems**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 251. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 An introduction to concurrent programming models and parallel computer architectures. Students will learn the basic techniques of parallel program design, implementation, and performance analysis. Topics include shared-memory and distributed-memory systems, parallel and distributed algorithms, and high-performance computing.
 
 **COMP 385: Distributed Systems**\
-*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 251. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 An introduction to modern distributed systems and how such systems enable the construction of large-scale and highly-available software. Students will explore foundational topics (e.g., consensus, consistency, and fault tolerance) as well as applied (distributed file systems, cloud computing, data processing and analytics systems).
 
 **COMP 451/452: Research in Computer Science (1-4 credits)**\
@@ -151,19 +160,12 @@ The purpose of this course is to allow students to complete their F11 while simu
 
 **COMP 465: Special Topics in Computer Science (1-4 credits)**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: varied depending on course content. <i class="ri-calendar-check-line"></i>Offered as needed.*\
-An occasional offering of topics not covered in the existing computer science courses. Examples of topics include data mining, human-computer
-interfaces, virtual environments, bioinformatics, parallel systems, and compilers.
+An occasional offering of topics not covered in the existing computer science courses. Examples of topics include machine learning, compilers, and cybersecurity.
 
-**COMP 485: Senior Seminar (fall component, 1 credit)**\
+**COMP 485: Senior Software Engineering**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: senior standing. <i class="ri-calendar-check-line"></i>Offered every year.*\
-This course lays the groundwork for the Spring Senior Seminar experience. Independent readings will be discussed and
-presented, and a Senior Seminar Project prospectus will be prepared and presented for approval by the faculty of the department.
+The software systems we often find the most useful and magical are also the largest and most complex to build and understand. In order for these systems to be reliable, maintainable, and secure, they must be built according to disciplined and well-founded methods. This course examines these methods—both in the large (defining requirements, system design, architecture patterns, software process, etc.) and in the small (version control, testing, benchmarking, code review, etc.). At the same time, students will engage in the construction of a large software system or feature.
 
-**COMP 486: Senior Seminar (spring component, 4 credits)**\
+**COMP 486: Senior Seminar**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: senior standing. <i class="ri-calendar-check-line"></i>Offered every year.*\
-This course comprises an in-depth exploration of the principles and techniques of analysis and design of software systems
-from an object-oriented perspective. Design patterns, a diagrammatic modeling language, and standard techniques of computer software
-specification, implementation, testing, and documentation will be explored and used as tools by students working in teams. Each team
-will produce a robust, scalable, and maintainable large-scale system based on the project proposal completed in CS 485. The Senior
-Seminar sequence is meant to emphasize the unity and power of computer science by applying and extending ideas drawn from the
-courses required for all Computer Science majors. All participants will make several oral presentations.
+Students embark on a semester long group project. Each team will produce a robust, scalable, and maintainable large-scale piece of software based on the project proposal completed in COMP 485. In addition to collaborating on a specific project, students present material on a wide range of software development topics, including software engineering, professional ethics, and current trends in languages, tools, and methodologies. As a senior seminar, the course has a strong problem-solving focus, encourages student participation and leadership, develops communication skills, and stresses integration of the student's full undergraduate experience.

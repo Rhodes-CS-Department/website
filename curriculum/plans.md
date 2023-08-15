@@ -134,7 +134,7 @@ during their first year will often have time to take more.
 
 This plan necessitates tripling-up CS courses twice.  This can be done during senior year, as shown below, or may be 
 possible earlier.  For instance, it is possible to take COMP 142, 172, and 231 all simultaneously, though enrollment
-demands may prevent students from taking all three simultaneously.  Here, it is beneficial if the required math class
+demands may prevent students from do this.  Here, it is beneficial if the required math class
 is taken in sophomore year, but even taking it fall of the junior year will leave time for additional math classes
 if desired.
 
@@ -159,7 +159,7 @@ COMP 350 (Theory of Computation) during spring of junior year, as this course is
 either COMP 241 or 251 as a prerequisite.
 
 Students wanting to major in computer science but not beginning COMP 141 until spring of sophomore year are *highly* encouraged
-to take summer courses to catch up.  The best options would be taking a COMP 142-equivalent course during the summer between sophomore
+to take summer courses to catch up.  The best options would be taking a COMP 142-equivalent or COMP 172-equivalent course during the summer between sophomore
 and junior year, or any transferrable CS elective between junior and senior years.
 
 |------------------------------------------|--------------------|---|-----------------------|--------------------|

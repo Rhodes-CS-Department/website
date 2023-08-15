@@ -4,14 +4,14 @@ title: Our Curriculum
 hideheading: false
 ---
 
-Rewrite: Our curriculum has theory and practice.  It will prepare you for industry and graduate school.  It is super-awesome.
-
-You can major, minor, or just take the classes you want.  All our courses are open to all students.
-
-The lower-level courses in computer science are anchored by our introductory programming
-sequence, which consists of Computer Science 141, 142, and 241.  We recommend students
-who are thinking about majoring or minoring in computer science complete these courses
-in consecutive semesters if possible, to minimize 
+Our computer science curriculum shifts as the field evolves.  At Rhodes, we pay close
+attention to new ideas and concepts that move rapidly to the forefront of our discipline
+while still placing an emphasis on fundamentals.  The Association for Computing Machinery
+(ACM) publishes guidelines for undergraduate computer science programs and make
+recommendations as to what should be required for a computer science degree; we strive
+to align ourselves with these guidelines.  Furthermore, we constantly evaluate our course
+offerings to give our students a cutting-edge education.  Our faculty also attend and present
+at computer science pedagogical conferences that highlight undergraduate computer science education.
 
 ## How to get started
 
@@ -40,7 +40,7 @@ experience with computer science is through this exam, then please sign up for C
 
 **For students with some prior programming experience who aren't sure which class to take:**
 
-Talk to any computer science professor, and we can help you figure out if you should start in CS 141 or CS 142.
+Talk to any computer science professor, and we can help you figure out if you should start in COMP 141 or COMP 142.
 
 ## After Computer Science 141
 
@@ -51,8 +51,8 @@ computer science at Rhodes.
 
 If you're sure you want to major in computer science, we recommend taking Computer Science 142 immediately
 after Computer Science 141.  If you have a second slot open in your schedule at the same time, we recommend
-taking either CS 172 or CS 231 at the same time as CS 142, as both of these courses are also required for the major
-and have only CS 141 as a prerequisite.
+taking COMP 172 at the same time as COMP 142, as both of these courses are prerequisites for the next logical course,
+COMP 241.  
 
 **If you think you might want to major in CS, but you aren't sure, or if you want to minor:**
 In this case, we recommend you still take Computer Science 142 immediately
@@ -62,10 +62,10 @@ the computer science courses you happen to be interested in.
 
 ## Next steps
 
-Once you have completed Computer Science 141 and 142, you should think about taking Computer Science 241, which
-focuses on Data Structures and Algorithms, and completes the introductory three-course programming sequence.
-Other lower-level courses required for both the major and minor are COMP 231 and COMP 172.  Once you are
-done with the lower-level courses, you can explore our upper-level electives .
+Once you have completed Computer Science 141 and 142, you should think about taking Computer Science 172,
+followed by Computer Science 241 and Computer Science 251.
+Most upper-level electives require either COMP 241 or COMP 251 as a prerequisite, so we encourage 
+students to complete those courses as soon as possible.
 
 - Learn more about the requirements for our [major and minor](major-and-minor.html).
 - Take a look at our [course descriptions](course-descriptions.html).
