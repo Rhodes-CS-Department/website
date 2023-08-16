@@ -23,7 +23,7 @@ hideheading: false
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/kirlin.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/kirlin.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Phil Kirlin</h4>
                 <span>Associate Professor</span>
