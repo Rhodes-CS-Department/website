@@ -43,7 +43,7 @@ hideheading: false
                 <span>Visiting Assistant Professor</span>
                 <p>Ph.D., University of Memphis</p>
                 <p>Research interests:</p>
-                <p>Office: Briggs 211</p>
+                <p>Office: Briggs 203</p>
 				<p><a href="mailto:kugeles@rhodes.edu">Email</a></p>
               </div>
             </div>
