@@ -65,12 +65,12 @@ hideheading: false
           
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/generic.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/phillips.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Nate Phillips</h4>
                 <span>Visiting Assistant Professor</span>
                 <p>Ph.D., Mississippi State University</p>
-                <p>Research interests:</p>
+                <p>Research interests: Augmented and virtual reality, perception, information visualization.</p>
                 <p>Office: Briggs 210</p>
                 <p><a href="mailto:phillipsn@rhodes.edu">Email</a></p>
               </div>
