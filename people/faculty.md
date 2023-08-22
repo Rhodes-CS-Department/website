@@ -37,12 +37,12 @@ hideheading: false
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/generic.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/kugele.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Sean Kugele</h4>
                 <span>Visiting Assistant Professor</span>
                 <p>Ph.D., University of Memphis</p>
-                <p>Research interests:</p>
+                <p>Research interests: artificial intelligence, neuro-symbolic systems, cognitive modeling, bio-inspired computing.</p>
                 <p>Office: Briggs 203</p>
 				<p><a href="mailto:kugeles@rhodes.edu">Email</a></p>
               </div>
@@ -70,7 +70,7 @@ hideheading: false
                 <h4>Nate Phillips</h4>
                 <span>Visiting Assistant Professor</span>
                 <p>Ph.D., Mississippi State University</p>
-                <p>Research interests: Augmented and virtual reality, perception, information visualization.</p>
+                <p>Research interests: augmented and virtual reality, perception, information visualization.</p>
                 <p>Office: Briggs 210</p>
                 <p><a href="mailto:phillipsn@rhodes.edu">Email</a></p>
               </div>
@@ -79,7 +79,7 @@ hideheading: false
           
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/sanders.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/sanders3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Betsy Sanders</h4>
                 <span>Professor</span>
