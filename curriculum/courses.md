@@ -67,6 +67,10 @@ An introduction to the structure and components of computer networks, packet swi
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 Coverage of the basic concepts of 2D and 3D graphics, including an overview of graphics hardware, use of a graphics application programming interface, user interface design, techniques for computer animation, and graphical algorithms such as geometric transformations, clipping, windowing, hidden surface removal, and raster graphics techniques for the representation of curves, surfaces, and solids.
 
+**COMP 322: Computer Vision and Image Processing**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+An introduction to computer vision, a discipline that develops methods to interpret and analyze images and videos. This course will focus heavily on computer vision as it relates to image processing, covering topics such as the characterization and representation of digital images, image enhancement, image restoration, image analysis, and image segmentation. This class will also highlight other classic computer vision topics such as object detection, three-dimensional reconstruction, and tracking and motion estimation. Students will also look at real world applications of these techniques including facial recognition, medical image analysis, robot navigation, and computational photography.
+
 **COMP 325: Graphics, Virtual Environments, and Human Computer Interaction**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 An introduction to the basics of 3D computer graphics, virtual environments (VEs), and human-computer interaction (HCI). Fundamental graphics topics include ray-tracing, 3D modeling, animation, lighting, rendering, cameras, and more.  Topics will also include how to interact with and experience a 3D model using the input and output devices that are typically found in a VE system (like the Oculus Rift).  This project-based course will focus on using hardware and creating software for VE applications with fundamental HCI principles in mind. 
@@ -110,6 +114,10 @@ A wide-ranging and in-depth coverage of fundamental programming language concept
 constructs, and examining the design choices for these constructs in a range of the most popular contemporary programming languages.
 Language design alternatives are examined and critiqued. Methods of syntax description, common approaches to describing the
 semantics of programming languages, and various implementation approaches are covered.
+
+**COMP 362: Compiler Construction**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 251. Recommended: COMP 231 <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+Introduction to programming language structure, lexical analysis, syntax analysis, code generation, error recovery and optimization. Students will be introduced to introductory topics in compiler theory and practice. Topics covered include lexical analysis, parsing methods, syntax tree generation and traversal, code generation, and optimization.
 
 **COMP 370: Human-Robot Interaction**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
