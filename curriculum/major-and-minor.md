@@ -13,9 +13,9 @@ are four credits; there are 56 total credits.
   and computer systems (COMP 251).
 - Five upper-level computer science electives, including one each from the categories:
   - Theory: Theory of Computation (COMP 350) or Advanced Algorithms (COMP 355).
-  - Systems: Computer Networks (COMP 315), Operating Systems (COMP 330), Programming Languages (COMP 360), Parallel Systems (COMP 380), and 
+  - Systems: Computer Networks (COMP 315), Operating Systems (COMP 330), Databases (COMP 340), Programming Languages (COMP 360), Parallel Systems (COMP 380), and 
     Distributed Systems (COMP 385).
-  - Applications: Computer Graphics (COMP 320); Graphics, Virtual Environments, and HCI (COMP 325); Databases (COMP 340); 
+  - Applications: Computer Graphics (COMP 320); Graphics, Virtual Environments, and HCI (COMP 325); 
     Bioinformatics (COMP 342); Data Mining (COMP 345); Programming Languages (COMP 360); Human-Robot Interaction (COMP 370);
   	Artificial Intelligence (COMP 372); Machine Learning (COMP 375).
 - One mathematics course, which may be any version and level of calculus (Math 112, 115, 116, 122, 223),
