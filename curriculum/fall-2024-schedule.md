@@ -1,6 +1,6 @@
 ---
 layout: subpage-template
-title: Fall 2023 Schedule
+title: Fall 2024 Schedule
 hideheading: false
 ---
 
