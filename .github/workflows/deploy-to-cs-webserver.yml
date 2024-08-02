@@ -63,7 +63,7 @@ jobs:
           SOURCE: "_site/"
           REMOTE_HOST: cs.rhodes.edu
           REMOTE_USER: kirlinp
-          TARGET: "~/public_html/csweb"
+          TARGET: "/var/www/html"
           EXCLUDE: "/dist/, /node_modules/"
           SCRIPT_BEFORE: |
             whoami
