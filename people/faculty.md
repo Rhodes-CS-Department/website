@@ -44,7 +44,7 @@ hideheading: false
                 <p>Ph.D., University of Memphis</p>
                 <p>Research interests: artificial intelligence, neuro-symbolic systems, cognitive modeling, bio-inspired computing.</p>
                 <p>Office: Briggs 203</p>
-				<p><a href="mailto:kugeles@rhodes.edu">Email</a></p>
+				<p><a href="mailto:kugeles@rhodes.edu">Email</a></p> | <a href="https://www.rhodes.edu/bio/sean-kugele">Website</a></p>
               </div>
             </div>
           </div>
@@ -72,7 +72,7 @@ hideheading: false
                 <p>Ph.D., Mississippi State University</p>
                 <p>Research interests: augmented and virtual reality, perception, information visualization.</p>
                 <p>Office: Briggs 210</p>
-                <p><a href="mailto:phillipsn@rhodes.edu">Email</a></p>
+                <p><a href="mailto:phillipsn@rhodes.edu">Email</a></p> | <a href="https://www.rhodes.edu/bio/nate-phillips">Website</a></p>
               </div>
             </div>
           </div>
