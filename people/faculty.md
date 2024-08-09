@@ -25,7 +25,7 @@ hideheading: false
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="../assets/img/faculty/kirlin.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Phil Kirlin</h4>
+                <h4>Phillip Kirlin</h4>
                 <span>Associate Professor</span>
                 <p>Ph.D., University of Massachusetts Amherst</p>
                 <p>Research interests: artificial intelligence, machine learning, music informatics.</p>
