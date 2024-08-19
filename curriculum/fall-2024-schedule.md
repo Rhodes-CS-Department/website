@@ -19,5 +19,4 @@ hideheading: false
 - COMP 355 - Advanced Algorithms by Matt Superdock
 - COMP 360 - Programming Languages by Brian Larkins
 - COMP 372 - Artificial Intelligence by Nate Phillips
-- COMP 465 - Modeling and Simulation by Jace King
 - COMP 485 - Senior Software Engineering by Sean Kugele
