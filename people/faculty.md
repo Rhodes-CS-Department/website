@@ -40,7 +40,7 @@ hideheading: false
               <div class="pic"><img src="../assets/img/faculty/kugele.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Sean Kugele</h4>
-                <span>Visiting Assistant Professor</span>
+                <span>Assistant Professor</span>
                 <p>Ph.D., University of Memphis</p>
                 <p>Research interests: artificial intelligence, neuro-symbolic systems, cognitive modeling, bio-inspired computing.</p>
                 <p>Office: Briggs 203</p>
