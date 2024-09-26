@@ -30,6 +30,13 @@ are four credits; there are 56 total credits.
 - Certain fields of computer science such as artificial intelligence, machine learning, and computer
 	graphics may require knowledge of additional math, and students intending further study in those
 	areas may want to take additional math courses, such as Calculus II and III (Math 122 and 233), Statistics (Math 211), and Linear Algebra (Math 261). 
+
+### Computer Science Major Essay Prompt
+All students at Rhodes must write an essay as part of their major declaration process. Students seeking to major in computer science should write an essay 
+of at least one page, double-spaced, about why they want to be a computer science major at Rhodes College. This essay should include a reflection of the 
+student’s goals in pursuing a major in computer science; possible links between their computer science coursework and other courses taken or to be taken; 
+what areas of computer science represent the student’s greatest interests; and what other areas of computer science will help the student to become more 
+well-rounded in the major field.
  
 ## Minoring in Computer Science
 
