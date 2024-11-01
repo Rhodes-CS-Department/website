@@ -1,6 +1,6 @@
 ---
 layout: subpage-template
-title: COMP367/MATH367: Programs and proofs with dependent types
+title: "COMP367/MATH367: Programs and proofs with dependent types"
 hideheading: false
 ---
 <style>
