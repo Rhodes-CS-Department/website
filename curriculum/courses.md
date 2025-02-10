@@ -142,6 +142,10 @@ computer to learn. Topics will include supervised learning, unsupervised learnin
 evaluation of learning algorithms. Students will write computer programs and apply course
 skills to solve real-world prediction and pattern recognition problems.
 
+**COMP 377: Reinforcement Learning**\
+*<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 241. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
+This course is an introduction to reinforcement learning (RL) and sequential decision problems. Students will learn about RL’s agent-environment interface, Markov decision processes, multi-armed bandits, dynamic programming, Monte Carlo methods, temporal-difference learning, and eligibility traces. Students will learn about the differences between model-free and model-based methods, and the trade-off between exploration and exploitation. While the course is aimed at giving students a solid foundation in tabular solution methods for reinforcement learning, the course will also provide a high-level overview of RL with function approximation using neural networks. Students will be required to complete several programming assignments and a final project.
+
 **COMP 380: Parallel Systems**\
 *<i class="ri-arrow-right-circle-line"></i>Prerequisite: COMP 251. <i class="ri-calendar-check-line"></i>Offered every few semesters based on student interest and instructor availability.*\
 An introduction to concurrent programming models and parallel computer architectures. Students will learn the basic techniques of parallel program design, implementation, and performance analysis. Topics include shared-memory and distributed-memory systems, parallel and distributed algorithms, and high-performance computing.
