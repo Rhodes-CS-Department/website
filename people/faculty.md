@@ -95,7 +95,7 @@ hideheading: false
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="../assets/img/faculty/generic.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Catie Welsh</h4>
+                <h4>Addison Schwamb</h4>
                 <span>Assistant Professor</span>
                 <p>Ph.D., Washington University in St. Louis</p>
                 <!--<p>Research interests: bioinformatics, computational genetics.</p>-->
