@@ -68,7 +68,7 @@ hideheading: false
               <div class="pic"><img src="../assets/img/faculty/larkins.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Brian Larkins</h4>
-                <span>Associate Professor</span>
+                <span>Associate Professor, Chair</span>
                 <p>Ph.D., The Ohio State University</p>
                 <p>Research interests: parallel programming, programming languages, network security.</p>
                 <p>Office: Briggs 213</p>
