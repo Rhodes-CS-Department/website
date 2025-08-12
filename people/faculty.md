@@ -30,7 +30,7 @@ hideheading: false
                 <p>M.S., College of William and Mary</p>
                 <!--<p>Research interests: augmented and virtual reality, perception, information visualization.</p>-->
                 <p>Office: Briggs 210</p>
-                <p><a href="mailto:kingj2@rhodes.edu">Email | <a href="https://www.rhodes.edu/bio/jace-king">Website</a></p>
+                <p><a href="mailto:kingj2@rhodes.edu">Email</a> | <a href="https://www.rhodes.edu/bio/jace-king">Website</a></p>
               </div>
             </div>
           </div>
@@ -100,7 +100,7 @@ hideheading: false
                 <p>Ph.D., Washington University in St. Louis</p>
                 <!--<p>Research interests: bioinformatics, computational genetics.</p>-->
                 <p>Office: Briggs 208</p>
-				<p><a href="mailto:schwamba@rhodes.edu">Email | <a href="https://www.rhodes.edu/bio/addison-schwamb">Website</a></p>
+				<p><a href="mailto:schwamba@rhodes.edu">Email</a> | <a href="https://www.rhodes.edu/bio/addison-schwamb">Website</a></p>
               </div>
             </div>
           </div>
