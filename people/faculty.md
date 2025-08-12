@@ -27,7 +27,7 @@ hideheading: false
               <div class="member-info">
                 <h4>Jace King</h4>
                 <span>Visiting Assistant Professor</span>
-                <p>M.S., The College of William and Mary</p>
+                <p>M.S., College of William and Mary</p>
                 <!--<p>Research interests: augmented and virtual reality, perception, information visualization.</p>-->
                 <p>Office: Briggs 210</p>
                 <p><a href="mailto:kingj2@rhodes.edu">Email | <a href="https://www.rhodes.edu/bio/jace-king">Website</a></p>
