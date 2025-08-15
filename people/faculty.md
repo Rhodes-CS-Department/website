@@ -7,19 +7,19 @@ hideheading: false
       <div class="container">
 	<div class="row">
           
-          <!--<div class="col-lg-6 mt-4 mt-lg-0">
+          <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/cowan.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/cooper.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Jessica Cowan</h4>
+                <h4>Mark Cooper</h4>
                 <span>Adjunct Assistant Professor</span>
-                <p>M.Ed., University of Southern California</p>
-                <p>Research interests: </p>
-                <p>Office: Robertson 244</p>
-                <p><a href="mailto:cowanj@rhodes.edu">Email</a> | <a href="https://www.rhodes.edu/bio/jessica-cowan">Website</a></p>
+                <p>Ph.D, University of California, Los Angeles</p>
+                <p>Research interests: artificial intelligence, data & analytics, enterprise architecture.</p>
+                <!--<p>Office: Robertson 244</p>-->
+                <p><a href="mailto:cooperm@rhodes.edu">Email</a> | <a href="https://thedatabrains.com/">Website</a></p>
               </div>
             </div>
-          </div>-->
+          </div>
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
@@ -35,7 +35,7 @@ hideheading: false
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4 mt-lg-0">
+          <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="../assets/img/faculty/kirlin.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
@@ -93,12 +93,12 @@ hideheading: false
 
 	      <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/generic.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/schwamb.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Addison Schwamb</h4>
                 <span>Assistant Professor</span>
                 <p>Ph.D., Washington University in St. Louis</p>
-                <!--<p>Research interests: bioinformatics, computational genetics.</p>-->
+                <p>Research interests: dynamic systems modeling, computational neuroscience, artificial intelligence.</p>
                 <p>Office: Briggs 208</p>
 				<p><a href="mailto:schwamba@rhodes.edu">Email</a> | <a href="https://www.rhodes.edu/bio/addison-schwamb">Website</a></p>
               </div>
