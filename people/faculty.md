@@ -100,7 +100,7 @@ hideheading: false
                 <p>Ph.D., Washington University in St. Louis</p>
                 <p>Research interests: dynamic systems modeling, computational neuroscience, artificial intelligence.</p>
                 <p>Office: Briggs 208</p>
-				<p><a href="mailto:schwamba@rhodes.edu">Email</a> | <a href="https://www.rhodes.edu/bio/addison-schwamb">Website</a></p>
+				<p><a href="mailto:schwamba@rhodes.edu">Email</a> | <a href="https://addison-schwamb.github.io">Website</a></p>
               </div>
             </div>
           </div>
