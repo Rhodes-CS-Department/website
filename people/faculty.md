@@ -93,7 +93,7 @@ hideheading: false
 
 	      <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/schwamb.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/faculty/schwamb.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Addison Schwamb</h4>
                 <span>Assistant Professor</span>
