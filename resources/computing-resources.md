@@ -30,7 +30,7 @@ with an overall system capacity of 2,112 cores, 11.6TB of memory, and 350 TB of
 storage. It consists of a login server, storage server, 44 compute nodes, and a
 100Gbit/s InfiniBand interconnect network. 
 
-Information on accessing and using the cluster can be found in the [Lotus / HPC User Guide](https://rhodescollege.atlassian.net/wiki/spaces/HPCL/pages/2067169303/Lotus+HPC+User+Guide)
+Information on accessing and using the cluster can be found in the [Lotus / HPC User Guide](https://rhodescollege.atlassian.net/wiki/spaces/HPCL/overview)
 
 ## Virtual Reality Lab
 
