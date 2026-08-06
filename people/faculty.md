@@ -6,34 +6,6 @@ hideheading: false
 <section id="team" class="team">
       <div class="container">
 	<div class="row">
-          
-          <div class="col-lg-6 mt-4 mt-lg-0">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/cooper.png" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Mark Cooper</h4>
-                <span>Adjunct Assistant Professor</span>
-                <p>Ph.D, University of California, Los Angeles</p>
-                <p>Research interests: artificial intelligence, data & analytics, enterprise architecture.</p>
-                <!--<p>Office: Robertson 244</p>-->
-                <p><a href="mailto:cooperm@rhodes.edu">Email</a> | <a href="https://thedatabrains.com/">Website</a></p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4 mt-lg-0">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/faculty/generic.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Jace King</h4>
-                <span>Visiting Assistant Professor</span>
-                <p>M.S., College of William and Mary</p>
-                <!--<p>Research interests: augmented and virtual reality, perception, information visualization.</p>-->
-                <p>Office: Briggs 210</p>
-                <p><a href="mailto:kingj2@rhodes.edu">Email</a> | <a href="https://www.rhodes.edu/bio/jace-king">Website</a></p>
-              </div>
-            </div>
-          </div>
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
@@ -49,7 +21,7 @@ hideheading: false
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4">
+          <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="../assets/img/faculty/kugele.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
@@ -115,6 +87,20 @@ hideheading: false
                 <p>Research interests: topological methods, type theory, formal verification, automated reasoning.</p>
                 <p>Office: Briggs 207</p>
                 <p><a href="mailto:superdockm@rhodes.edu">Email</a> | <a href="https://www.cs.rhodes.edu/~superdockm/">Website</a></p>
+              </div>
+            </div>
+          </div>
+
+		  <div class="col-lg-6 mt-4">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img src="../assets/img/faculty/xu.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Hong Xu</h4>
+                <span>Assistant Professor</span>
+                <p>Ph.D., The University of Utah</p>
+                <p>Research interests: image processing, deep learning, statistical shape modeling, mathematical optimization, medical image analysis.</p>
+                <p>Office: Briggs 210</p>
+                <p><a href="mailto:xuh@rhodes.edu">Email</a></p>
               </div>
             </div>
           </div>
