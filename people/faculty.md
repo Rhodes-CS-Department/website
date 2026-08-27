@@ -97,7 +97,7 @@ hideheading: false
               <div class="member-info">
                 <h4>Hong Xu</h4>
                 <span>Assistant Professor</span>
-                <p>Ph.D., The University of Utah</p>
+                <p>Ph.D., University of Utah</p>
                 <p>Research interests: image processing, deep learning, statistical shape modeling, mathematical optimization, medical image analysis.</p>
                 <p>Office: Briggs 210</p>
                 <p><a href="mailto:xuh@rhodes.edu">Email</a></p>
