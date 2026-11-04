@@ -18,6 +18,6 @@ hideheading: false
 - COMP 350 - Theory of Computation by Matt Superdock
 - COMP 367 - Programs and Proofs with Dependent Types by Matt Superdock
 - COMP 375 - Machine Learning by Phil Kirlin
-- COMP 380 - Parallel Systems by Brian Larins
-- COMP 465 - Special Otopics: Computer Networks and Cybersecurity by Peter Kim
+- COMP 380 - Parallel Systems by Brian Larkins
+- COMP 465 - Special Topics: Computer Networks and Cybersecurity by Peter Kim
 - COMP 485 - Seminar by Sean Kugele
