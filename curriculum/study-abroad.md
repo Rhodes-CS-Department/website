@@ -6,11 +6,11 @@ hideheading: false
 
 Studying abroad can be a valuable experience to have during your computer science education.
 Many computer science majors at Rhodes study abroad and the department works closely with
-the students and the [Office of International Programs](https://internationalprograms.rhodes.edu/) (the Buckman Center) to find opportunities that are a good
+the students and the [Buckman Center for Global Engagement](https://www.rhodes.edu/academics/global-rhodes/study-abroad) to find opportunities that are a good
 fit for students and have courses that will transfer back to Rhodes.
 Our students have studied in countries all over the world including Germany, Hungary, New Zealand, Spain, and the United Kingdom.
 
-## When can I study abroad as a computer science or major?
+## When can I study abroad as a computer science major or minor?
 
 It is possible to study abroad during any spring or fall term, but most students study
 abroad during junior year, with many also opting for programs during the summers between sophomore and junior year,
@@ -41,12 +41,12 @@ Be sure to talk to your advisor about your degree requirements and four-year pla
 
 If you would like to have classes you take abroad count for computer science credit, 
 you will need to submit the list of classes you are planning to take, along with course syllabi, to the chair
-of the Computer Science Department before studying abroad.  Approving computer science
-courses for transfer credit is granted only through the signature of the department chair
+of the Computer Science Department before studying abroad.  Computer science courses are
+approved for transfer credit only through the department chair's signature on the
 Off-Campus Study Application.
 
 Foundations credits will be approved by the appropriate academic officer acting on behalf of the 
-Foundations Curriculum Committee. In most cases, this approval will come from the Director of International Programs, 
+Foundations Curriculum Committee. In most cases, this approval will come from the Director of the Buckman Center, 
 the Registrar, or the chair of the department or program at Rhodes in which the coursework will be pursued.
 
-For more information, see the Office of International Programs' [Academic Policies](https://internationalprograms.rhodes.edu/index.cfm?FuseAction=Abroad.ViewLink&Parent_ID=7C2C2550-A4BA-DB3E-035EEC2676852B49&Link_ID=156836E2-5056-BA21-D78EFA4D90F6DD1B).
+For more information, see the catalog's [transfer credit policies](https://catalog.rhodes.edu/educational-program/requirements-degree) and the Buckman Center's [Study Abroad and Away Portal](https://www.rhodes.edu/academics/global-rhodes/study-abroad/study-abroad-away-portal).
