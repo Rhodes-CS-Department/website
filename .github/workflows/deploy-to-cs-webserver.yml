@@ -29,14 +29,16 @@ concurrency:
 jobs:
   # Build job
   build-and-copy-to-external-server:
-    runs-on: ubuntu-24.04
+    # Named on purpose instead of ubuntu-latest: setup-ruby only accepts runner images it
+    # knows about, so a moving label can break deploys when setup-ruby is pinned (as below).
+    runs-on: ubuntu-26.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
+        uses: ruby/setup-ruby@de492cf36cbab201753d720ce4f4e336cd688c94 # v1.336.0
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
+          ruby-version: '4.0' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
@@ -50,13 +52,8 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-      - name: Test secret key
-        run: |
-          echo ${{ secrets.MY_SECRET }}
-          echo ${{ secrets.MY_SECRET }} > tempfile
-          wc tempfile
       - name: Deploy to external server
-        uses: easingthemes/ssh-deploy@main
+        uses: easingthemes/ssh-deploy@2cc5b27bf3029d0455dd5e09fe02633904031447 # v6.0.3
         with:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           ARGS: "-rlgoDzvc -i"
